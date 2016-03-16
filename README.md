@@ -16,7 +16,7 @@
 [Limboy 无网不剩](http://blog.leezhong.com/) | <http://feeds.feedburner.com/lzyy>
 [唐巧的技术博客](http://blog.devtang.com) | <http://blog.devtang.com/atom.xml>
 [Lex Tang](http://lexrus.com/) | <http://lexrus.com/feed.xml>
-[念茜的博客](http://nianxi.net) | <http://nianxi.net/feed.xml>
+[念茜的博客](http://blog.csdn.net/yiyaaixuexi/article/category/1302847) | <http://blog.csdn.net/yiyaaixuexi/article/category/1302847>
 [Xcode Dev](http://blog.xcodev.com) | <http://blog.xcodev.com/atom.xml>
 [Ted's Homepage](http://wufawei.com/)| <http://wufawei.com/feed>
 [txx's blog](http://blog.t-xx.me) | <http://blog.t-xx.me/atom.xml>
